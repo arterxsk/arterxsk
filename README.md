@@ -1,19 +1,24 @@
+<p align="center">
+  <h3 align="center">Hey, hola!</h3>
 
-# Social Links
+  <p align="center">
+    What should I put here?
+  </p>
+</p>
 
-![](https://discordapp.com/api/guilds/1082401271098638417/widget.png?style=banner2)<br>
+[![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
+[![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
+[![My Files](https://img.shields.io/badge/POCKET-LOKI-ABD4C2?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://github.com/artsvn/pocketloki)
 
-[![](https://dcbadge.vercel.app/api/server/R89XUt7uMa)](https://discord.gg/R89XUt7uMa)
+**Introduction**:
 
-[![Donate - Donate](https://img.shields.io/badge/Donate-COFFEE-0b0b0b?style=for-the-badge)](https://ko-fi.com/artsvn)
+I’m just a person who loves doing my habits. I love exploring different skills. I'm starting a nonsense project for the random things I did which is the PocketLoki.
 
-# Our Discord Bot
-
-* [![PocketLoki](https://img.shields.io/badge/PocketLoki-TicketBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1048883477149392928&permissions=8&scope=bot%20applications.commands)<br>
-
-* [![PocketLoki](https://img.shields.io/badge/PocketLoki-GiveawayBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1063250459118276618&permissions=8&scope=bot%20applications.commands)
-
-# Projects
-
-* [![Projects](https://img.shields.io/badge/Check-Release-0b0b0b?style=for-the-badge)](https://github.com/artsvn/pocketloki/releases)
-
+**Skills**:
+* Basic knowledge about:
+* Editing photos
+* Editing videos
+* Graphics design
+* Coding
+* Photography
+* Writing stories
