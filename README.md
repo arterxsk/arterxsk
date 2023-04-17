@@ -15,10 +15,12 @@
 I’m just a person who loves doing my habits. I love exploring different skills. I'm starting a nonsense project for the random things I did which is the PocketLoki.
 
 **Skills**:
-* Basic knowledge about:
+> Basic knowledge about:
 * Editing photos
 * Editing videos
 * Graphics design
 * Coding
 * Photography
 * Writing stories
+
+At the moment I don't have a web portfolio since I'm not taken any commission.
