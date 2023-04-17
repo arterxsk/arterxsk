@@ -6,7 +6,7 @@
   </p>
 </p>
 
-[![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
+[![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](http://pocketloki.online/donate) 
 [![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
 [![My Files](https://img.shields.io/badge/POCKET-LOKI-ABD4C2?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://github.com/artsvn/pocketloki)
 
