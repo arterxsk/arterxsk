@@ -16,11 +16,9 @@ I’m just a person who loves doing my habits. I love exploring different skills
 
 **Skills**:
 > Basic knowledge about:
-* Editing photos
-* Editing videos
+* [Editing photos & Videos](https://arterxsk.carrd.co/)
 * Graphics design
 * Coding
 * Photography
 * Writing stories
 
-At the moment I don't have a web portfolio since I'm not taking any commission.
