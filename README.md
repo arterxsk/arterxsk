@@ -16,7 +16,7 @@ I’m just a person who loves doing my habits. I love exploring different skills
 
 **Skills**:
 > Basic knowledge about:
-* [Editing photos & Videos](https://arterxsk.carrd.co/)
+* [Editing photos & Videos](https://art.pocketloki.online/)
 * Graphics design
 * Coding
 * Photography
